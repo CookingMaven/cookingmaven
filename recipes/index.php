@@ -14,8 +14,6 @@
 
 <td valign="top">
 
-
-
 <font color="#800000" size="6"><b>Welcome to CookingMaven.com</b></font>
 
 <FONT FACE="ARIAL,HELVETICA" SIZE="2">
@@ -27,6 +25,15 @@
 </font>
 <p></p>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</td>
+
+<td>
+<a class="twitter-timeline" width="275" height="400" href="https://twitter.com/theCookingMaven" data-widget-id="428384808092172288">Tweets by @theCookingMaven</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td>
+
+<tr><td colspan=2>
 <!-- Main Body Ad -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,27 +128,6 @@
 
 
 
-<br>
-<div id="wufoo-z1amehh61tnwkal">
-Fill out my <a href="https://cookingmaven.wufoo.com/forms/z1amehh61tnwkal">feedback form</a>.
-</div>
-<script type="text/javascript">var z1amehh61tnwkal;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'cookingmaven',
-'formHash':'z1amehh61tnwkal',
-'autoResize':true,
-'height':'325',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1amehh61tnwkal = new WufooForm();z1amehh61tnwkal.initialize(options);z1amehh61tnwkal.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
-
 </td></TR></TABLE>
 
 <center>
@@ -149,8 +135,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 <table cellspacing="20">
 <tr><td>
 
-<a class="twitter-timeline" width="275" height="500" href="https://twitter.com/theCookingMaven" data-widget-id="428384808092172288">Tweets by @theCookingMaven</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- Was Twitter -->
 
 </td>
 <td>

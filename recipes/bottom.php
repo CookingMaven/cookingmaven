@@ -28,9 +28,8 @@ function googleTranslateElementInit() {
 <a href="/about.php">About Us</a>&nbsp;|&nbsp;
 <a href="/disclaimer.php">Disclaimer</a>&nbsp;|&nbsp;
 <a href="/privacy.php">Privacy Statement</a>&nbsp;|&nbsp;
-<b><a href="/mavens/index.php">The Mavens</a></b>&nbsp;|&nbsp;
-<b><a href="/whatsnew.php">What's New</a></b>&nbsp;|&nbsp;
-<b><a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a></b>
+<a href="/mavens/index.php">The Mavens</a>&nbsp;|&nbsp;
+<a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a>
 
 <p>This site is dedicated to the memory of <A HREF="/mavens/maxinepowerbio.php">Maxine Jindrich Power</A> and <a href="/mavens/bessiepokodner.php">Bessie Weinstein Pokodner</a>.</p>
 
