@@ -4,17 +4,20 @@
 <meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750" cellpadding="5"><tr>
+<center><table width="780" cellpadding="5"><tr>
 <?php require "sidepanel.php"; ?>
 
 
 
 <td valign="top">
 
-<font color="#800000" size="6"><b>Welcome to CookingMaven.com</b></font>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Welcome to CookingMaven.com</b></font></center>
+</td></tr></table>
 
 <FONT FACE="ARIAL,HELVETICA" SIZE="2">
 <p><a href="recipe/25.php"><img src="images/grilledcheese.jpg" hspace="20" align="left" width="225" height="225"></a>At CookingMaven.com, we strive to provide quick access to home tested recipes that our family enjoys.  On top of these easy to follow recipes, you will find key vocabulary to make your cooking experience a positive one as well as tips from our Maven's that can help cooks of all skill levels reach their highest potential. 
@@ -26,31 +29,10 @@
 <p></p>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-</td>
-
-<td>
-<a class="twitter-timeline" width="275" height="400" href="https://twitter.com/theCookingMaven" data-widget-id="428384808092172288">Tweets by @theCookingMaven</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</td>
-
-<tr><td colspan=2>
-<!-- Main Body Ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1748896305444686"
-     data-ad-slot="3746382868"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<br>
-
 <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
 <tr><td bgcolor="#800000" align="left" colspan="2"><font size="3" face="Verdana, Arial,Helvetica, sans-serif" color="#ffffff">
 <center><b>What to Cook Today</b></center></font></td></tr></center>
-
 <tr>
-
 <td align="left"><font size="2" face="Verdana, Arial,Helvetica, sans-serif">
 <FONT COLOR="#800000"><b>Breakfast:</b></FONT> <a href="recipe/29.php">Homemade Pancakes</A></td></tr><tr>
 
@@ -65,6 +47,35 @@
 
 </tr>
 </table>
+</td>
+
+<td>
+<a class="twitter-timeline" width="275" height="450" href="https://twitter.com/theCookingMaven" data-widget-id="428384808092172288">Tweets by @theCookingMaven</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</td>
+
+<tr><td colspan=2>
+<center>
+<table cellspacing="20">
+<tr><td>
+<a href="recipe/5.php"><img src="images/zbread.jpg" width="250" height="250"></a>
+</td><td>
+<a href="recipe/24.php"><img src="images/salsa.jpg" width="250" height="250"></a>
+</tr></td>
+</table>
+</center>
+<p>
+<!-- Main Body Ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1748896305444686"
+     data-ad-slot="3746382868"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
+
 
 <br><br>
 
@@ -130,29 +141,6 @@
 
 </td></TR></TABLE>
 
-<center>
-<p></p>
-<table cellspacing="20">
-<tr><td>
-
-<!-- Was Twitter -->
-
-</td>
-<td>
-<a href="recipe/5.php"><img src="images/zbread.jpg" width="250" height="250"></a>
-<br>
-<a href="recipe/24.php"><img src="images/salsa.jpg" width="250" height="250"></a>
-</tr></td>
-</table>
-</center>
-<p>
-
-
-
-
-
-
-</center>
 
 <?php require "bottom.php"; ?>
 
