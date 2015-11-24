@@ -1,2 +1,2 @@
 # cookingmaven
-Cooking Maven website
+Ben Power's great Cooking Maven website
