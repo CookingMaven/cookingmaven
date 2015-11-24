@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^recipes.planningskills.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.recipes.planningskills.com$
+RewriteRule ^(.*)$ http://www.planningskills.com/recipes/$1 [R=301,L]
+

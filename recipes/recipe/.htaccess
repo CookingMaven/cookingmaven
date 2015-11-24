@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteBase /recipe/
+
+RewriteRule ^([0-9]+)\.php recipelist.php?id=$1 [ne]

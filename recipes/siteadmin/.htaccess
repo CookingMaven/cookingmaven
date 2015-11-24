@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile "/home/planning/.htpasswds/public_html/recipes/siteadmin/passwd"
+require valid-user
