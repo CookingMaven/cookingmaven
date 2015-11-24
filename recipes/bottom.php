@@ -10,8 +10,13 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<br><br>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,ca,cs,cy,da,de,el,en,es,fr,hi,hr,it,iw,ja,ko,la,ml,mn,nl,no,pl,pt,ru,sv,th,tl,tr,yi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<br>
 <br>
 <TABLE WIDTH="700" bgcolor="#eeeeee" CELLPADDING=6 Cellspacing=0 border=0><tr><td colspan="3" bgcolor="#FFE4B5" align="center">
 
@@ -19,8 +24,12 @@
 <font size="-2" face="arial, helvetica, sans-serif">
 
 <b><a href="/">Home</a></b>&nbsp;|&nbsp;
-<b><a href="../mavens/index.php">The Mavens</a></b>&nbsp;|&nbsp;
-<b><a href="../whatsnew.php">What's New</a></b>&nbsp;|&nbsp;
+<a href="/welcome.php">Welcome</a>&nbsp;|&nbsp;
+<a href="/about.php">About Us</a>&nbsp;|&nbsp;
+<a href="/disclaimer.php">Disclaimer</a>&nbsp;|&nbsp;
+<a href="/privacy.php">Privacy Statement</a>&nbsp;|&nbsp;
+<b><a href="/mavens/index.php">The Mavens</a></b>&nbsp;|&nbsp;
+<b><a href="/whatsnew.php">What's New</a></b>&nbsp;|&nbsp;
 <b><a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a></b>
 
 <p>This site is dedicated to the memory of <A HREF="/mavens/maxinepowerbio.php">Maxine Jindrich Power</A> and <a href="/mavens/bessiepokodner.php">Bessie Weinstein Pokodner</a>.</p>
