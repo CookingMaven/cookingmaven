@@ -1,18 +1,30 @@
-<html><head>
-<title>The Cooking Maven - Recipes</title>
+<html>
+<head>
+<title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1748896305444686",
+    enable_page_level_ads: true
+  });
+</script>
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "../topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "../sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Recipe Box</b></font></center>
+</td></tr></table>
 
+<p>
 
 <body>
 <center>
@@ -26,13 +38,13 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
 <p>
-<H2><font color="#800000">Recipe Index</font></H2>
 
-Find our Maven's favorite recipes here.  Let us know what you think on Twitter <a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a>.
+Find our Mavens' favorite recipes in the family Recipe Box.  Let us know when you try out our favorites by tweeting at <a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a> or following him on Instagram <a href="http://www.instagram.com/theDisneyMaven" targer="new">@theDisneyMaven</a> and sharing your experiences.
 
 <ul>
 <?php 
-require "../password.php";  // Sets $user and $pass
+$user = "planning_ben";
+$pass = "ben123r";
 
 $db = mysql_connect(localhost, $user, $pass);
 

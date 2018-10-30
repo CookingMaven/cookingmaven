@@ -1,18 +1,29 @@
-<html><head>
-<title>The Cooking Maven - Glossary</title>
-
+<html>
+<head>
+<title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1748896305444686",
+    enable_page_level_ads: true
+  });
+</script>
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "../topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "../sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Glossary</b></font></center>
+</td></tr></table>
 
+<p>
 
 <body>
 <center>
@@ -26,8 +37,6 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
 <p>
-
-<H2><font color="#800000">Glossary</font></H2>
 
 <p>Ever wonder what makes gas grilling and charcoal grilling different, or the difference between baking and roasting?  Find these answers and more below by selecting the term you would like to learn more about.</p>
 

@@ -1,21 +1,21 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "../topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "../sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
-
-
-
-<H2><font color="#800000">Maxine Jindrich Power</font></H2>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Maxine Jindrich Power</b></font></center>
+</td></tr></table>
 
 <table>
 <tr><td>

@@ -1,16 +1,25 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Videos</b></font></center>
+</td></tr></table>
+
+<p>
+
+<body>
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 468X60 Ad -->
@@ -21,12 +30,16 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
-
-<H2><font color="#800000">Videos</font></H2>
+<p>
 <TABLE CELLSPACING=2 BORDER=0 CELLPADDING=5 COLS=5 WIDTH=95% ALIGN=CENTER>       
 
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCfgaVmpiTMVup0woQOGOVug" data-layout="full" data-count="hidden"></div>
+<p>
 
 <li><a href="tips/cutting.php">Perfectly cut your grapes or cherry tomatoes</a>
+<li><a href="https://youtu.be/af3dEbAd4Os" target="new">6 Amazing Cooking Tips</a> from How To Make Sushi
 </CENTER></TD>
 
 </TABLE>

@@ -1,21 +1,21 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
-
-
-<H2><font color="#800000">About CookingMaven.COM</font></H2>
-
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>About CookingMaven.COM</b></font></center>
+</td></tr></table>
 
 <UL>
   
@@ -23,7 +23,7 @@
       What is CookingMaven.COM?</a>
 
 <LI><a HREF = #contacts>
-      How can I contact the editor and/or webmaster?</a>
+      How can I contact the editor/webmaster?</a>
 
 <LI><a HREF = #submitting>
       Can I submit material to CookingMaven.COM?</a>
@@ -38,6 +38,8 @@
 
 <LI><a href= #link>Can I put a link to CookingMaven.COM on my web page?</a>
 
+<LI><a href= #new>How can I find out what's new at CookingMaven.com?</a>
+
 </UL>
 
 
@@ -51,7 +53,7 @@
 </a>
 CookingMaven.COM is a website dedicated to the recipes of Ben's family members.  On this site there will be tips, help, and a respect of chefs (or cooks) in general.  There will be many unique features on this page to help you learn to cook, or improve your cooking skills. 
 <a name="contacts">
-<h3><font color="#800000">How can I contact the editor and/or webmaster?</font></h3>
+<h3><font color="#800000">How can I contact the editor/webmaster?</font></h3>
 </a>
 You can contact Ben by e-mailing him at <A HREF="mailto:ben@cookingmaven.com">ben@cookingmaven.com</a> or on Twitter <a href="http://www.twitter.com/theCookingMaven">@theCookingMaven</a> where he will respond as soon as he reads the email.  
 
@@ -77,6 +79,11 @@ The CookingMaven.COM web site is hosted by AQHost.
 <h3><font color="#800000">Can I put a link to CookingMaven.COM on my web page?</font></h3>
 </a>
 Yes!  If you do, please email me at <A HREF="mailto:ben@cookingmaven.com">ben@cookingmaven.com</a>.  For any further questions, please feel free to stay in touch via email.
+
+<a name="new">
+<h3><font color="#800000">How can I find out what's new at CookingMaven.com?</font></h3>
+</a>
+Ben will post updates on twitter when he adds something big, and you can also see a listing of changes here, at the <a href="whatsnew.php">Site History</a> page.
 </font></td></TR></TABLE></center>
 
 

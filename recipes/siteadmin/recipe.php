@@ -14,7 +14,8 @@
 <p><a href="recipe1.php">Enter New Recipe</a></p>
 
 <?php 
-require "../password.php";  // Sets $user and $pass
+$user = "planning_ben";
+$pass = "ben123r";
 
 $db = mysql_connect(localhost, $user, $pass);
 

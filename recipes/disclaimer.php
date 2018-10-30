@@ -1,22 +1,21 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
-
-
-
-<H2><font color="#800000">CookingMaven.COM<sup>sm</sup> WEB SITE: LEGAL DISCLAIMER</font></H2>
-
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>CookingMaven.COM<sup>sm</sup>: Legal Disclaimer</b></font></center>
+</td></tr></table>
 
 
 <font size=-1>Unless otherwise indicated, this Web Site and its contents are 
@@ -41,7 +40,7 @@ THE USE OF THIS WEB SITE OR ANY WEB SITE WITH WHICH IT IS LINKED.  <p>
 <p><B>PERSONAL AND NON-COMMERCIAL USE LIMITATIONS</b></B>
 
 <P><font size=-1> This Web site is for the User's personal, non-commercial use.
-                       User may not modify, copy, distribute, transmit, display, perform,reproduce, publish, license, create derivative works from,transfer, or sell any information, software, products or services obtained from this Web site.</font>
+User may not modify, copy, distribute, transmit, display, perform,reproduce, publish, license, create derivative works from,transfer, or sell any information, software, products or services obtained from this Web site.</font>
 
 <P><B>Additional Guidelines for Webmasters on Linking/Repurposing/Permissioning</B><P><font size=-1>     
      Ben Power is a very active participant in web activities and I appreciate and support the culture of information sharing.  I strive to produce high quality content and I strive to minimize access problems. I do however take copyright violations very seriously.  All of the source code on this site is copyrighted, whether html, 
@@ -95,7 +94,7 @@ reasons at my discretion.
 
 
 <font size=-1>                
-CookingMaven.COM<sup>sm</sup> is maintained and copyrighted (c) 2004-2014 by Ben Power, Kansas City, MO 64131, E-Mail: 
+CookingMaven.COM<sup>sm</sup> is maintained and copyrighted (c) 2004-2017 by Ben Power, Kansas City, MO 64131, E-Mail: 
 <A HREF="mailto:ben@coookingmaven.com">ben@cookingmaven.com</A></font>
 
 <P><font size=-1>Feedback will be appreciated. </font></P>

@@ -1,23 +1,24 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Welcome to CookingMaven.COM</b></font></center>
+</td></tr></table>
 
 
-
-<H2><font color="#800000">Welcome to CookingMaven.COM</font></H2>
-
-<p>CookingMaven.COM is a new "sister" site to DSSResources.COM. Check <A HREF="http://powerenterprises.net/" target="new">PowerEnterprises.net</A> for more great content.</p>
+<p>CookingMaven.COM is a "sister" site to DSSResources.COM. Check <A HREF="http://powerenterprises.net/" target="new">PowerEnterprises.net</A> for more great content.</p>
 
 <p>In the coming months, we are hoping to do some exciting things to make CookingMaven.COM even more useful. First, I am working on creating new content pages and your suggestions are most welcome. Second, we are working to promote the site and generate some revenue to maintain and enhance it.  We are hoping some sponsors will want to pay for the great "eyeballs" that are viewing the content at CookingMaven.COM. </p>
 

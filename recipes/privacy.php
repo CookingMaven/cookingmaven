@@ -1,21 +1,21 @@
-<html><head>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
 
-
-
-
-<H2><font color="#800000">CookingMaven.COM, L.L.C. Privacy Statement</font></H2>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>CookingMaven.COM, L.L.C. Privacy Statement</b></font></center>
+</td></tr></table>
 
 <p>
 
@@ -59,7 +59,7 @@ apply to information collected after the date the policy is changed. <p>
 
 
 
-© 2005-2014 Ben Power; All Rights Reserved
+© 2005-2017 Ben Power; All Rights Reserved
 <p>
 
 </font></td></TR></TABLE></center>

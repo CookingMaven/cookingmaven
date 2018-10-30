@@ -11,7 +11,8 @@
 <table width="80%" align="center" border="1" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
 <tr><td colspan="3" align="center"><h2>Add/Edit Recipe</h2>
 <?php 
-require "../password.php";  // Sets $user and $pass
+$user = "planning_ben";
+$pass = "ben123r";
 
 $db = mysql_connect(localhost, $user, $pass);
 

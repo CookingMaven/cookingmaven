@@ -13,7 +13,8 @@
 <tr><td colspan="3" align="center"><h2>Glossary Term</h2>
 
 <?php 
-require "../password.php";  // Sets $user and $pass
+$user = "planning_ben";
+$pass = "ben123r";
 
 $db = mysql_connect(localhost, $user, $pass);
 

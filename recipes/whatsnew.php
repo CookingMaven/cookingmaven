@@ -1,17 +1,25 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
- <link rel="stylesheet" href="css/base.css">
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Site History</b></font></center>
+</td></tr></table>
+
+<p>
+
+<body>
 <center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 468X60 Ad -->
@@ -21,11 +29,9 @@
      data-ad-slot="1640535265"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</center>
-
-
-<H2><font color="#800000">What's New</font></H2>
+</script></center>
+<p>
+<TABLE CELLSPACING=2 BORDER=0 CELLPADDING=5 COLS=5 WIDTH=95% ALIGN=CENTER>       
 
 
 October 23, 2004 - Created domain <a href="http://www.cookingmaven.com">CookingMaven.COM</a>
@@ -38,13 +44,12 @@ October 23, 2004 - Created domain <a href="http://www.cookingmaven.com">CookingM
 <br>December 31, 2004 - First tip - <a href="/tips/directions.php">Follow the Directions!</a>
 <br>January 2006 - Moved to more static content
 <br>January 5, 2009 - Site Update
-<br>November 27, 2013 - Site Update
-<br>January 29, 2014 - New content added
+<br>January 29, 2014 - Large update of new content
 <br>January 31, 2014 - Added <a href="images.php">image gallery</a> 
 <br>February 1, 2014 - Added Search functionality
 <br>February 24, 2015 - Added Translate functionality
 <br>September 12, 2015 - Added "Tweet" shortcut to Recipes, Tips, and Ask the Maven
-<br>September 12, 2015 - Added a <a href="http://www.wufoo.com" target="new">Wufoo</a> poll to the main page.
+<br>November 24, 2015 - Site re-design with new color scheme
 </font></td></TR></TABLE></center>
 
 

@@ -1,36 +1,37 @@
-<html><head>
+<html>
+<head>
 <title>The Cooking Maven</title>
+<meta name="google-site-verification" content="B-OKVOgNtID50Ym604C8JMs8i6ibePuk-wJIFsj7QpI" />
 
 </head>
-<body bgcolor="#FFE4B5">
+<body bgcolor="#EFECE3">
 
 <?php require "topinclude.php"; ?>
-<center><table width="750"><tr>
-<?php require "sidepanel.php"; ?>
-<td>
+<center><table width="780" cellpadding="5"><tr>
 
 
 <td valign="top">
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="5" width="100%">
+<tr><td bgcolor="#800000" align="left" colspan="2">
+<center><font size="6" color="#FFFFFF"><b>Simple Substitution Help</b></font></center>
+</td></tr></table>
+
+<p>
+
+<body>
 <center>
-<script type="text/javascript"><!--
-google_ad_client = "pub-0618929342013514";
-google_ad_width = 468;
-google_ad_height = 60;
-google_ad_format = "468x60_as";
-google_ad_channel ="7681837626";
-google_color_link = "0000CC";
-google_color_url = "008000";
-google_color_border = "DFF2FD";
-google_color_bg = "DFF2FD";
-google_color_text = "000000";
-//--></script>
-<script type="text/javascript"
-  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 468X60 Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-1748896305444686"
+     data-ad-slot="1640535265"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
-
-
-<H2><font color="#800000">Simple Substitution Help</font></H2>
-
+<p>
+<TABLE CELLSPACING=2 BORDER=0 CELLPADDING=5 COLS=5 WIDTH=95% ALIGN=CENTER>   
 <FONT FACE="ARIAL,HELVETICA" SIZE="2">
 
 <p><b>Baking powder:</b> 1 tsp. = 1/3 tsp. baking soda plus 1/2 tsp. cream of tarter, <b>or</b> 1/4 tsp. baking soda plus 1/3 cup <a href="/glossary/37.php">sour milk</a>

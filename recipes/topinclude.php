@@ -1,6 +1,8 @@
 <center>
-<a href="/"><img src="/images/pic12.JPG"></a>
-<br><BR>
+
+<p>
+
+<a href="/"><img src="/images/pic1.jpg"></a>
 <style>
   #toplinks {
     text-align: center;
@@ -11,21 +13,21 @@
   #toplinks a {
     color: #880000;
     text-decoration: none;
-    padding: 4px;
-    border-color: grey;
+    padding: 3px;
+    border-color: #880000;
     border-style: solid;
-    border-width: 1px;
+    border-width: 4px;
     border-radius: 5px;
   }
 </style>
 <div id="toplinks">
+
 <a href="../askthemaven/index.php">Ask the Maven!</a>
 <a href="../tips/index.php">Cooking Tips</a>
 <a href="/glossary/index.php">Glossary</a>
-<a href="../images.php">Image Gallery</a>
-<a href="../recipe/index.php">Recipe Index</a>
-<a href="../shop.php">Shop</a>
-<a href="../links.php">Top Links</a>
-<a href="../videos.php">Videos</a>
+<a href="../images.php">Photo Book</a>
+<a href="../reviews/index.php">Reviews</a>
+<a href="../recipe/index.php">Recipe Box</a>
+<a href="../BBQMavens/index.php">The BBQ Mavens</a>
 </div>
 <br>

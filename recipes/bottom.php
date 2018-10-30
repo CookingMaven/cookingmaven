@@ -18,7 +18,7 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <br>
-<TABLE WIDTH="700" bgcolor="#eeeeee" CELLPADDING=6 Cellspacing=0 border=0><tr><td colspan="3" bgcolor="#FFE4B5" align="center">
+<TABLE WIDTH="700" bgcolor="#eeeeee" CELLPADDING=6 Cellspacing=0 border=0><tr><td colspan="3" bgcolor="#EFECE3" align="center">
 
 
 <font size="-2" face="arial, helvetica, sans-serif">
@@ -29,7 +29,8 @@ function googleTranslateElementInit() {
 <a href="/disclaimer.php">Disclaimer</a>&nbsp;|&nbsp;
 <a href="/privacy.php">Privacy Statement</a>&nbsp;|&nbsp;
 <a href="/mavens/index.php">The Mavens</a>&nbsp;|&nbsp;
-<a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a>
+<a href="http://www.twitter.com/thecookingmaven" target="new">@theCookingMaven</a>&nbsp;|&nbsp;
+<a href="http://www.instagram.com/theDisneymaven" target="new">@theDisneyMaven</a>
 
 <p>This site is dedicated to the memory of <A HREF="/mavens/maxinepowerbio.php">Maxine Jindrich Power</A> and <a href="/mavens/bessiepokodner.php">Bessie Weinstein Pokodner</a>.</p>
 
@@ -43,4 +44,4 @@ echo date ("l, F j, Y", getlastmod());
 .</font></td></TR></TABLE></center>
 
 
-
+ 

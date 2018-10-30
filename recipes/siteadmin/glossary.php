@@ -8,7 +8,8 @@
 <p><a href="index.html">Back to Index</a></p>
 <p><a href="glossary1.php">NEW TERM</a></p>
 <?php
-require "../password.php";  // Sets $user and $pass
+$user = "planning_ben";
+$pass = "ben123r";
 $db = mysql_connect(localhost, $user, $pass);  mysql_select_db("planning_recipes",$db);
 $query="SELECT id, term, lastupdate from glossary ORDER BY term;";  $result=mysql_query($query);
 while ($line = mysql_fetch_row($result)) {
